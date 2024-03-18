@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.loginbg{
+  background-image: url("./images/bgmd1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.register_bg{
+  background-image: url("./images/bgr1.jpg");
+}
+
+.indvidual_bg{
+  background-image: url("./images/bgr2.png");
+}
+
+.labmember_bg{
+  background-image: url("./images/bgr3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
